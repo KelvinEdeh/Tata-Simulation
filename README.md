@@ -49,7 +49,7 @@ The data used in this project was provided by Tata and is available on the Forag
 - **Discussion**: The top performing customers in the decreasing order are: the Netherlands, EIRE, Germany, France, Australia, Spain, Switzerland, Belgium, Sweden, and Japan. these key markets contribute significantly to revenue. The online retail store can increase marketing efforts in these high-performing regions.
 
 ![Sales Revenue and Quantity by Country](https://github.com/KelvinEdeh/Tata-Simulation/assets/48542660/2f6f7286-8211-479b-94ef-6b4a077e33af)
-
+![visual](C:\Users\User\Pictures\Screenshots)
 
 ### Question 3: Top 10 Customers by Revenue
 - **Visualization**: Bar chart showing the top 10 customers by revenue in descending order.
