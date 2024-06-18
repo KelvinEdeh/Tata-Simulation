@@ -42,7 +42,7 @@ The data used in this project was provided by Tata and is available on the Forag
 - **Visualization**: Monthly revenue trend line chart for 2011.
 - **Discussion**: The chart reveals gradual growth with a peak in November, showing seasonality towards the end of the year. We do not have the complete sales data for the month of December, thus the seeming sharp decline.
   
-![Monthly Revenue Trend](https://github.com/KelvinEdeh/Tata-Simulation/assets/48542660/aea10bee-8e91-4064-b33f-00591413c7f1)
+![Monthly Revenue Trend]("C:\Users\User\Pictures\Screenshots\Screenshot 2024-06-08 170825.png")
 
 ### Question 2: Top 10 Revenue-Generating Countries (Excluding UK)
 - **Visualization**: Bar chart showing the top 10 countries by revenue and the quantity sold for those countries.
