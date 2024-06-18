@@ -48,7 +48,7 @@ The data used in this project was provided by Tata and is available on the Forag
 - **Visualization**: Bar chart showing the top 10 countries by revenue and the quantity sold for those countries.
 - **Discussion**: The top performing customers in the decreasing order are: the Netherlands, EIRE, Germany, France, Australia, Spain, Switzerland, Belgium, Sweden, and Japan. these key markets contribute significantly to revenue. The online retail store can increase marketing efforts in these high-performing regions.
 
-![Top 10 Countries by Revenue](https://drive.google.com/drive/recent)
+![Top 10 Countries by Revenue](.https://drive.google.com/file/d/1R3O3uM4IG9Mymiy9r90xf24UZ23XjHS2/view?usp=sharing)
 
 ### Question 3: Top 10 Customers by Revenue
 - **Visualization**: Bar chart showing the top 10 customers by revenue in descending order.
