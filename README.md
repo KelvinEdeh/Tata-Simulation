@@ -48,22 +48,20 @@ The data used in this project was provided by Tata and is available on the Forag
 - **Visualization**: Bar chart showing the top 10 countries by revenue and the quantity sold for those countries.
 - **Discussion**: The top performing customers in the decreasing order are: the Netherlands, EIRE, Germany, France, Australia, Spain, Switzerland, Belgium, Sweden, and Japan. these key markets contribute significantly to revenue. The online retail store can increase marketing efforts in these high-performing regions.
 
-![Screenshot 2024-06-08 170825](https://github.com/KelvinEdeh/Tata-Simulation/assets/48542660/2f6f7286-8211-479b-94ef-6b4a077e33af)
+![Sales Revenue and Quantity by Country](https://github.com/KelvinEdeh/Tata-Simulation/assets/48542660/2f6f7286-8211-479b-94ef-6b4a077e33af)
 
 
 ### Question 3: Top 10 Customers by Revenue
 - **Visualization**: Bar chart showing the top 10 customers by revenue in descending order.
 - **Discussion**: These customers contribute significantly to the revenue, with analysis showing a huge 15% of total revenue coming from these 10 individuals. The top-performing customers should be given special product offers, their feedback is necessary to see what gives they view as attracts them to the brand and also see their purchase patterns. It is also necessary to improve the relationship with other customers to increase sales and improve revenue distribution. This will ensure that few customers don't have a high influence on the company's revenue.
 
-![Top 10 Customers by Revenue](path_to_image)
-![Screenshot 2024-06-08 173527](https://github.com/KelvinEdeh/Tata-Simulation/assets/48542660/55d68b37-32b6-4176-b62f-e0ccc3aebeba)
+![Top 10 Customers by Revenue](https://github.com/KelvinEdeh/Tata-Simulation/assets/48542660/55d68b37-32b6-4176-b62f-e0ccc3aebeba)
 
 ### Question 4: Demand by Region (Excluding UK)
 - **Visualization**: A map showing demand by region with color concentration to show the revenue size.
 - **Discussion**: The European countries and Australia are leading in sales performance. These markets can be given top priority in marketing and operational decisions to improve sales for the coming year. Further analysis could also reveal their product-wise purchase pattern and seasonality to identify what products, months, and days attract the highest sales in these regions. 
 
-![Demand by Region](path_to_image)
-![Screenshot 2024-06-08 174448](https://github.com/KelvinEdeh/Tata-Simulation/assets/48542660/6da3249a-4dfe-4619-8a2f-9f5e927ecd3a)
+![Demand by Region](https://github.com/KelvinEdeh/Tata-Simulation/assets/48542660/6da3249a-4dfe-4619-8a2f-9f5e927ecd3a)
 
 ## Summary
 This project provided insights into revenue trends, key markets, top customers, and regional demand using Tableau visualizations. These insights support strategic decisions aimed at driving growth and improving customer satisfaction.
