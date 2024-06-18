@@ -41,13 +41,14 @@ The data used in this project was provided by Tata and is available on the Forag
 ### Question 1: Time Series of Revenue Data for 2011
 - **Visualization**: Monthly revenue trend line chart for 2011.
 - **Discussion**: The chart reveals gradual growth with a peak in November, showing seasonality towards the end of the year. We do not have the complete sales data for the month of December, thus the seeming sharp decline.
+  
 ![Monthly Revenue Trend](path_to_image)
 
 ### Question 2: Top 10 Revenue-Generating Countries (Excluding UK)
 - **Visualization**: Bar chart showing the top 10 countries by revenue and the quantity sold for those countries.
 - **Discussion**: The top performing customers in the decreasing order are: the Netherlands, EIRE, Germany, France, Australia, Spain, Switzerland, Belgium, Sweden, and Japan. these key markets contribute significantly to revenue. The online retail store can increase marketing efforts in these high-performing regions.
 
-![Top 10 Countries by Revenue](path_to_image)
+![Top 10 Countries by Revenue](https://drive.google.com/drive/recent)
 
 ### Question 3: Top 10 Customers by Revenue
 - **Visualization**: Bar chart showing the top 10 customers by revenue in descending order.
