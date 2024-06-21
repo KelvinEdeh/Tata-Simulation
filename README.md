@@ -41,8 +41,7 @@ The data used in this project was provided by Tata and is available on the Forag
 ### Question 1: Time Series of Revenue Data for 2011
 - **Visualization**: Monthly revenue trend line chart for 2011.
 - **Discussion**: The chart reveals gradual growth with a peak in November, showing seasonality towards the end of the year. We do not have the complete sales data for the month of December, thus the seeming sharp decline.
-  
-![Screenshot 2024-06-08 170825](https://github.com/KelvinEdeh/Tata-Simulation/assets/48542660/38f31331-725f-49a2-b7fa-80e8bfd5f2b0)
+  ![Revenue Trend for 2011](https://github.com/KelvinEdeh/Tata-Simulation/assets/48542660/50722211-f870-4f12-9d77-2114b483446e)
 
 
 ### Question 2: Top 10 Revenue-Generating Countries (Excluding UK)
@@ -50,7 +49,6 @@ The data used in this project was provided by Tata and is available on the Forag
 - **Discussion**: The top performing customers in the decreasing order are: the Netherlands, EIRE, Germany, France, Australia, Spain, Switzerland, Belgium, Sweden, and Japan. these key markets contribute significantly to revenue. The online retail store can increase marketing efforts in these high-performing regions.
 
 ![Sales Revenue and Quantity by Country](https://github.com/KelvinEdeh/Tata-Simulation/assets/48542660/2f6f7286-8211-479b-94ef-6b4a077e33af)
-![visual](C:\Users\User\Pictures\Screenshots)
 
 ### Question 3: Top 10 Customers by Revenue
 - **Visualization**: Bar chart showing the top 10 customers by revenue in descending order.
